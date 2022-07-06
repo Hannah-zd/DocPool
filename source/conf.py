@@ -16,9 +16,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'MyFirstBlog'
-copyright = '2022, hannah'
-author = 'hannah'
+project = 'DocPool'
+copyright = '2022, Hannah'
+author = 'Hannah'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
