@@ -1,6 +1,6 @@
 UX
 ============
-This chapter walks you through the basic UX-related knowledge, which could give you a sufficient background before learning UX writing.
+This chapter walks you through the UX-related knowledge, which could give you a basic background before learning UX writing.
 
 
 .. toctree::
